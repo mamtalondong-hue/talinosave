@@ -114,8 +114,10 @@ soroban contract invoke \
   --claimant <MEMBER_A_ADDRESS>
 ```
 
-## Deployment Reference
-See: https://github.com/armlynobinguar/Stellar-Bootcamp-2026
+## Deployment 
+CONTRACT ID: CDHHRBUJHH2M4OM6PNOWCYDXGOGFAAE3KPPOHMIIDQIKGRSO33RJL755
+
+![talinosave](talinosave.png)
 
 ---
 
